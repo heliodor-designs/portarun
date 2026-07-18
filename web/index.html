@@ -94,9 +94,12 @@
 <script>
   const map = L.map('map', { zoomControl: false }).setView([36.0726, -79.7920], 13);
   L.control.zoom({ position: 'bottomleft' }).addTo(map);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    subdomains: 'abcd',
+    maxZoom: 20,
+    detectRetina: true,   // {r} -> @2x on high-DPI screens; needs detectRetina
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors ' +
+                 '&copy; <a href="https://carto.com/attributions">CARTO</a>',
   }).addTo(map);
 
   const styles = {
@@ -126,10 +129,10 @@
     const s = styles[p.kind];
     return L.circleMarker([lat, lon], {
       radius: 6 + 5 * p.confidence,
-      color: s.color,
+      color: '#fff',            // white halo so markers pop on any basemap
       weight: 2,
-      fillColor: s.color,
-      fillOpacity: 0.25 + 0.5 * p.confidence,
+      fillColor: s.color,       // teal / orange conveyed by the fill
+      fillOpacity: 0.6 + 0.35 * p.confidence,  // 0.6–0.95: readable even at low confidence
     }).bindPopup(popupHtml(p));
   }
 
