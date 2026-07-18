@@ -1,0 +1,7253 @@
+{
+ "type": "FeatureCollection",
+ "metadata": {
+  "generated_at": "2026-07-18T14:43:27.195690+00:00",
+  "counts": {
+   "greensboro_permits": 293,
+   "greensboro_parks": 121,
+   "osm_toilets": 50
+  },
+  "total_after_dedupe": 381
+ },
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8363172,
+     36.1242882
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12315435517",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.75,
+    "name": "Public toilet (OSM)",
+    "detail": "access: yes",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9895781,
+     36.0889806
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12423260896",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8392803,
+     36.148538
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12621617443",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9913776,
+     36.0874684
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12713782103",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9912,
+     36.0884489
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12713823728",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7623405,
+     36.0605893
+    ]
+   },
+   "properties": {
+    "id": "osm:node/12777196763",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8348779,
+     36.1340143
+    ]
+   },
+   "properties": {
+    "id": "osm:node/13694043785",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.75,
+    "name": "Public toilet (OSM)",
+    "detail": "access: yes",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8376047,
+     36.0868964
+    ]
+   },
+   "properties": {
+    "id": "osm:node/5180642138",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.75,
+    "name": "Public toilet (OSM)",
+    "detail": "access: yes \u00b7 wheelchair accessible",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84026,
+     36.0072453
+    ]
+   },
+   "properties": {
+    "id": "osm:node/5771145949",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8387545,
+     36.0070705
+    ]
+   },
+   "properties": {
+    "id": "osm:node/5771145950",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8395658,
+     36.0063442
+    ]
+   },
+   "properties": {
+    "id": "osm:node/9411527914",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "Mapped on OpenStreetMap",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9366244,
+     36.1051303
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493199817",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.936191,
+     36.1054649
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493209082",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9361295,
+     36.1034323
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493484758",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9364307,
+     36.1038744
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493486676",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9349348,
+     36.1056713
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493494646",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9346202,
+     36.1054034
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493495549",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9343329,
+     36.1049777
+    ]
+   },
+   "properties": {
+    "id": "osm:way/1493496589",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.7,
+    "name": "Public toilet (OSM)",
+    "detail": "access: customers",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0283983,
+     36.1148499
+    ]
+   },
+   "properties": {
+    "id": "osm:way/488361688",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.75,
+    "name": "Public toilet (OSM)",
+    "detail": "access: yes \u00b7 fee: no \u00b7 wheelchair accessible",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0339329,
+     36.1133648
+    ]
+   },
+   "properties": {
+    "id": "osm:way/488361693",
+    "source": "osm",
+    "kind": "restroom",
+    "confidence": 0.75,
+    "name": "Public toilet (OSM)",
+    "detail": "access: yes \u00b7 fee: no",
+    "fetched_at": "2026-07-18T14:00:36.067578+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.96623051890695,
+     35.93428412208733
+    ]
+   },
+   "properties": {
+    "id": "parks:allen-jay-recreation-center-&-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Allen Jay Recreation Center & Park restroom",
+    "detail": "Restroom at Allen Jay Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.96355925777031,
+     35.933201650152206
+    ]
+   },
+   "properties": {
+    "id": "parks:allen-jay-recreation-center-&-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Allen Jay Recreation Center & Park restroom",
+    "detail": "Restroom at Allen Jay Recreation Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00757647876729,
+     35.970525278224535
+    ]
+   },
+   "properties": {
+    "id": "parks:armstrong-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Armstrong Park restroom",
+    "detail": "Restroom at Armstrong Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75403558535298,
+     36.051352870698025
+    ]
+   },
+   "properties": {
+    "id": "parks:barber-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Barber Park restroom",
+    "detail": "Restroom and Concession Stand at Barber Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99375035720095,
+     35.93813463273689
+    ]
+   },
+   "properties": {
+    "id": "parks:blair-park-golf-course-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Blair Park Golf Course restroom",
+    "detail": "Restroom at Blair Park Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7283270174988,
+     36.18593723582031
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7299971913346,
+     36.180381521939715
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73752839506649,
+     36.18493349275958
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74171858193806,
+     36.18049850103966
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74305466312043,
+     36.17632133415039
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73833129995657,
+     36.170893482367866
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park restroom",
+    "detail": "Restroom at Bryan Park Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74599022783258,
+     36.16738844155597
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-soccer-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park Soccer Complex restroom",
+    "detail": "Restroom at Macpherson Stadium at Bryan Park Soccer Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7427475894588,
+     36.17077123482946
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-soccer-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park Soccer Complex restroom",
+    "detail": "Restroom at Bryan Park Soccer Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74789863397599,
+     36.167123257379956
+    ]
+   },
+   "properties": {
+    "id": "parks:bryan-park-soccer-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bryan Park Soccer Complex restroom",
+    "detail": "Restroom at Bryan Park Soccer Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8713227133964,
+     36.16310317698327
+    ]
+   },
+   "properties": {
+    "id": "parks:bur-mil-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bur-Mil Park restroom",
+    "detail": "Restroom at Bur-Mil Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87102041451874,
+     36.1658096726073
+    ]
+   },
+   "properties": {
+    "id": "parks:bur-mil-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bur-Mil Park restroom",
+    "detail": "Restroom at Bur-Mil Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8699966584041,
+     36.169401895345274
+    ]
+   },
+   "properties": {
+    "id": "parks:bur-mil-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bur-Mil Park restroom",
+    "detail": "Restroom at Bur-Mil Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87117575453597,
+     36.16173397228296
+    ]
+   },
+   "properties": {
+    "id": "parks:bur-mil-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Bur-Mil Park restroom",
+    "detail": "Restroom at Bur-Mil Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.98705965271374,
+     35.97575860159529
+    ]
+   },
+   "properties": {
+    "id": "parks:burnett-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Burnett Park restroom",
+    "detail": "Restroom at Burnett Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88456300541867,
+     36.13360085330571
+    ]
+   },
+   "properties": {
+    "id": "parks:carolyn-allen-regional-park-and-athletic-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Carolyn Allen Regional Park and Athletic Complex restroom",
+    "detail": "Restroom at Carolyn Allen Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9612735293212,
+     35.97403685960407
+    ]
+   },
+   "properties": {
+    "id": "parks:cedrow-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Cedrow Park restroom",
+    "detail": "Restroom at Cedrow Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95555236927619,
+     36.016744211902044
+    ]
+   },
+   "properties": {
+    "id": "parks:charles-p.-turner-community-park-&-sports-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Charles P. Turner Community Park & Sports Complex restroom",
+    "detail": "Restroom at Charles P. Turner Community Park & Sports Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83670474635618,
+     36.12742771369949
+    ]
+   },
+   "properties": {
+    "id": "parks:country-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Country Park restroom",
+    "detail": "Restroom at Country Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83506866736779,
+     36.12980558350482
+    ]
+   },
+   "properties": {
+    "id": "parks:country-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Country Park restroom",
+    "detail": "Restroom at Country Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.55134034162192,
+     36.137678096438066
+    ]
+   },
+   "properties": {
+    "id": "parks:county-farm-preserve-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "County Farm Preserve restroom",
+    "detail": "Restroom at County Farm Preserve",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97984822493801,
+     36.039157893380334
+    ]
+   },
+   "properties": {
+    "id": "parks:deep-river-recreation-center-&-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Deep River Recreation Center & Park restroom",
+    "detail": "Restroom at Deep River Recreation Center & Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97935497685313,
+     36.03858434113635
+    ]
+   },
+   "properties": {
+    "id": "parks:deep-river-recreation-center-&-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Deep River Recreation Center & Park restroom",
+    "detail": "Restroom at Deep River Recreation Center & Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75021248215297,
+     36.05682221375119
+    ]
+   },
+   "properties": {
+    "id": "parks:gateway-gardens-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Gateway Gardens restroom",
+    "detail": "Restroom at Gateway Gardens",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94744149357857,
+     36.031358075732214
+    ]
+   },
+   "properties": {
+    "id": "parks:gibson-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Gibson Park restroom",
+    "detail": "Restroom at Gibson Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94353827787451,
+     36.030236678171
+    ]
+   },
+   "properties": {
+    "id": "parks:gibson-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Gibson Park restroom",
+    "detail": "Restroom at Gibson Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77985022169352,
+     36.05070334686466
+    ]
+   },
+   "properties": {
+    "id": "parks:gillespie-golf-course-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Gillespie Golf Course restroom",
+    "detail": "Restroom at Gillespie Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82295525626284,
+     36.049948423110564
+    ]
+   },
+   "properties": {
+    "id": "parks:glenwood-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Glenwood Community Park restroom",
+    "detail": "Restroom at Glenwood Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84194153899264,
+     36.069637730238405
+    ]
+   },
+   "properties": {
+    "id": "parks:greensboro-arboretum-1605",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Greensboro Arboretum restroom",
+    "detail": "Restroom at Greensboro Arboretum",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84204327535461,
+     36.07019149644272
+    ]
+   },
+   "properties": {
+    "id": "parks:greensboro-arboretum-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Greensboro Arboretum restroom",
+    "detail": "Restroom at Greensboro Arboretum",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74840957620756,
+     36.11096159996367
+    ]
+   },
+   "properties": {
+    "id": "parks:greensboro-sportsplex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Greensboro Sportsplex restroom",
+    "detail": "Restroom at Greensboro Sportsplex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73604057272155,
+     35.95303413630209
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72906101709677,
+     35.95510005189043
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72620130259283,
+     35.95544658009468
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7347167029639,
+     35.951287696441206
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73536319065236,
+     35.95466785860265
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73846626068605,
+     35.953658566528304
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72753305861215,
+     35.954945600703226
+    ]
+   },
+   "properties": {
+    "id": "parks:hagan-stone-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hagan-Stone Park restroom",
+    "detail": "Restroom at Hagan-Stone Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82931012432992,
+     36.02429100627679
+    ]
+   },
+   "properties": {
+    "id": "parks:hampton-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hampton Park restroom",
+    "detail": "Restroom at Hampton Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0156965315536,
+     35.93836318112151
+    ]
+   },
+   "properties": {
+    "id": "parks:harvell-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Harvell Park restroom",
+    "detail": "Restroom at Harvell Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77662019038826,
+     36.23325236224664
+    ]
+   },
+   "properties": {
+    "id": "parks:haw-river-state-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Haw River State Park restroom",
+    "detail": "Restroom at Haw River State Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75624292084898,
+     36.25093883834368
+    ]
+   },
+   "properties": {
+    "id": "parks:haw-river-state-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Haw River State Park restroom",
+    "detail": "Restroom at Haw River State Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.03008969100065,
+     35.986391875014874
+    ]
+   },
+   "properties": {
+    "id": "parks:hedgecock-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hedgecock Park restroom",
+    "detail": "Restroom at Hedgecock Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85724555621833,
+     36.019051474638225
+    ]
+   },
+   "properties": {
+    "id": "parks:hester-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hester Park restroom",
+    "detail": "Restroom at Hester Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86083130106378,
+     36.019393825737374
+    ]
+   },
+   "properties": {
+    "id": "parks:hester-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Hester Park restroom",
+    "detail": "Restroom at Hester Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.03024055464907,
+     36.001515046982654
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-athletic-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point Athletic Complex restroom",
+    "detail": "Restroom at High Point Athletic Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.02750916591455,
+     36.00273996248757
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-athletic-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point Athletic Complex restroom",
+    "detail": "Restroom at High Point Athletic Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.02986816311413,
+     36.00475905581478
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-athletic-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point Athletic Complex restroom",
+    "detail": "Restroom at High Point Athletic Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95227942223671,
+     35.996333027320475
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-city-lake-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point City Lake Park restroom",
+    "detail": "Restroom at High Point City Lake Camp Ann",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94781001072049,
+     35.99478436748798
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-city-lake-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point City Lake Park restroom",
+    "detail": "Restroom at High Point City Lake Concessions",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94945060984784,
+     35.99508808033082
+    ]
+   },
+   "properties": {
+    "id": "parks:high-point-city-lake-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "High Point City Lake Park restroom",
+    "detail": "Restroom at High Point City Lake Marina",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94919672994725,
+     36.01322069412582
+    ]
+   },
+   "properties": {
+    "id": "parks:jamestown-park-&-golf-course-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Jamestown Park & Golf Course restroom",
+    "detail": "Restroom at Jamestown Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95062488366877,
+     36.013200026223934
+    ]
+   },
+   "properties": {
+    "id": "parks:jamestown-park-&-golf-course-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Jamestown Park & Golf Course restroom",
+    "detail": "Restroom at Jamestown Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83500636222763,
+     36.12233543750862
+    ]
+   },
+   "properties": {
+    "id": "parks:jaycee-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Jaycee Park restroom",
+    "detail": "Restroom at Stoner White Stadium at Jaycee Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83538810174252,
+     36.121142685549316
+    ]
+   },
+   "properties": {
+    "id": "parks:jaycee-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Jaycee Park restroom",
+    "detail": "Restroom at Jaycee Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83455769035218,
+     36.119714024056854
+    ]
+   },
+   "properties": {
+    "id": "parks:jaycee-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Jaycee Park restroom",
+    "detail": "Restroom at Spencer Love Tennis Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76703694894111,
+     36.110195149120074
+    ]
+   },
+   "properties": {
+    "id": "parks:joe-davis-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Joe Davis Park restroom",
+    "detail": "Restroom at Joe Davis Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0140559576791,
+     36.05015962753101
+    ]
+   },
+   "properties": {
+    "id": "parks:johnson-street-sports-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Johnson Street Sports Complex restroom",
+    "detail": "Restroom at Johnson Street Sports Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.71275104062167,
+     36.11157498350858
+    ]
+   },
+   "properties": {
+    "id": "parks:keeley-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Keeley Park restroom",
+    "detail": "Restroom at Keeley Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83747414358233,
+     36.167663969649325
+    ]
+   },
+   "properties": {
+    "id": "parks:lake-brandt-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lake Brandt Park restroom",
+    "detail": "Restroom at Lake Brandt Marina at Lake Brandt Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80953230155991,
+     36.07779936869846
+    ]
+   },
+   "properties": {
+    "id": "parks:lake-daniel-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lake Daniel Park restroom",
+    "detail": "Restroom at Lake Daniel Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88572744745409,
+     36.169098268607165
+    ]
+   },
+   "properties": {
+    "id": "parks:lake-higgins-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lake Higgins Park restroom",
+    "detail": "Restroom at Lake Higgins Marina at Lake Higgins Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73155273538949,
+     36.18705366786323
+    ]
+   },
+   "properties": {
+    "id": "parks:lake-townsend-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lake Townsend Park restroom",
+    "detail": "Restroom at Lake Townsend Marina at Lake Townsend Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79667009064542,
+     36.08569737670834
+    ]
+   },
+   "properties": {
+    "id": "parks:latham-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Latham Park restroom",
+    "detail": "Restroom at Latham Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79598714688701,
+     36.08720685670804
+    ]
+   },
+   "properties": {
+    "id": "parks:latham-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Latham Park restroom",
+    "detail": "Tennis Center Restroom at Latham Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78818993844855,
+     36.07464832010397
+    ]
+   },
+   "properties": {
+    "id": "parks:lebauer-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "LeBauer Park restroom",
+    "detail": "Restroom at LeBauer Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9101120838564,
+     36.10409030825262
+    ]
+   },
+   "properties": {
+    "id": "parks:leonard-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Leonard Community Park restroom",
+    "detail": "Restroom at Leonard Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83544911452984,
+     36.118305248701404
+    ]
+   },
+   "properties": {
+    "id": "parks:lewis-recreation-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lewis Recreation Center restroom",
+    "detail": "Restroom at Lewis Recreation Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84270911658149,
+     36.065987448095896
+    ]
+   },
+   "properties": {
+    "id": "parks:lindley-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lindley Community Park restroom",
+    "detail": "Restroom at Lindley Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8385371087282,
+     36.07337196804627
+    ]
+   },
+   "properties": {
+    "id": "parks:lindley-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lindley Park restroom",
+    "detail": "Restroom at Lindley Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84205002789801,
+     36.065319672537726
+    ]
+   },
+   "properties": {
+    "id": "parks:lindley-recreation-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Lindley Recreation Center restroom",
+    "detail": "Restroom at Lindley Recreation Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99952451248845,
+     35.948127522905345
+    ]
+   },
+   "properties": {
+    "id": "parks:macedonia-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Macedonia Park restroom",
+    "detail": "Restroom at Macedonia Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.53922823567247,
+     36.111635701418834
+    ]
+   },
+   "properties": {
+    "id": "parks:moricle-recreational-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Moricle Recreational Complex restroom",
+    "detail": "Restroom at Moricle Recreational Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.5442473161238,
+     36.11203315571924
+    ]
+   },
+   "properties": {
+    "id": "parks:moricle-recreational-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Moricle Recreational Complex restroom",
+    "detail": "Restroom at Moricle Recreational Complex",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.54944855015829,
+     36.107143937020055
+    ]
+   },
+   "properties": {
+    "id": "parks:murrell-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Murrell Park restroom",
+    "detail": "Restroom at Murrell Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76946140583028,
+     36.06263742108709
+    ]
+   },
+   "properties": {
+    "id": "parks:nocho-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Nocho Park restroom",
+    "detail": "Restroom at Nocho Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.98390155441176,
+     36.01350508249663
+    ]
+   },
+   "properties": {
+    "id": "parks:north-overlook-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "North Overlook restroom",
+    "detail": "Restroom at North Overlook",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.61561854118733,
+     36.16603596739402
+    ]
+   },
+   "properties": {
+    "id": "parks:northeast-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Northeast Park restroom",
+    "detail": "Restroom at Northeast Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.60770243835246,
+     36.167963045846726
+    ]
+   },
+   "properties": {
+    "id": "parks:northeast-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Northeast Park restroom",
+    "detail": "Restroom at Northeast Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.60698072924414,
+     36.16930506407728
+    ]
+   },
+   "properties": {
+    "id": "parks:northeast-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Northeast Park restroom",
+    "detail": "Restroom at Northeast Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.60477663400282,
+     36.16646318691716
+    ]
+   },
+   "properties": {
+    "id": "parks:northeast-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Northeast Park restroom",
+    "detail": "Restroom at Northeast Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00720706806227,
+     36.01010384389584
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-campground-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Campground restroom",
+    "detail": "Restroom at Oak Hollow Campground",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00928404934807,
+     36.011170296224876
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-campground-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Campground restroom",
+    "detail": "Restroom at Oak Hollow Campground",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99012029229327,
+     36.00879377531074
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-festival-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Festival Park restroom",
+    "detail": "Restroom at Oak Hollow Festival Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99944881348674,
+     36.007733806746096
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-golf-course-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Golf Course restroom",
+    "detail": "Restroom at Oak Hollow Golf Course",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00293441843284,
+     36.01294389460772
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-marina-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Marina restroom",
+    "detail": "Restroom at Oak Hollow Marina",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0027647865168,
+     36.00889719220293
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-hollow-tennis-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Hollow Tennis Center restroom",
+    "detail": "Restroom at Oak Hollow Tennis Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9967261646706,
+     36.17582890896466
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-ridge-town-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Ridge Town Park restroom",
+    "detail": "Restroom at Oak Ridge Town Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99934860647436,
+     36.17371749194624
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-ridge-town-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Ridge Town Park restroom",
+    "detail": "Restroom at Oak Ridge Town Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99734105401961,
+     36.17405351496098
+    ]
+   },
+   "properties": {
+    "id": "parks:oak-ridge-town-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Oak Ridge Town Park restroom",
+    "detail": "Restroom at Oak Ridge Town Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80999087961986,
+     36.05060013422912
+    ]
+   },
+   "properties": {
+    "id": "parks:old-peck-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Old Peck Park restroom",
+    "detail": "Restroom at Old Peck Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7455577695556,
+     36.094843770192725
+    ]
+   },
+   "properties": {
+    "id": "parks:peeler-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Peeler Community Park restroom",
+    "detail": "Restroom at Peeler Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.04610208270375,
+     36.00657167824155
+    ]
+   },
+   "properties": {
+    "id": "parks:phillips-soccer-complex-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Phillips Soccer Complex restroom",
+    "detail": "Restroom at Phillips Soccer Complex (Private)",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95427290180221,
+     36.00454305102603
+    ]
+   },
+   "properties": {
+    "id": "parks:piedmont-environmental-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Piedmont Environmental Center restroom",
+    "detail": "Restroom at Piedmont Environmental Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75472249140492,
+     35.96864632032769
+    ]
+   },
+   "properties": {
+    "id": "parks:pleasant-garden-community-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Pleasant Garden Community Center restroom",
+    "detail": "Restroom at Pleasant Garden Community Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75474981835448,
+     35.9756526037291
+    ]
+   },
+   "properties": {
+    "id": "parks:pleasant-garden-town-hall-and-volunteer-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Pleasant Garden Town Hall and Volunteer Park restroom",
+    "detail": "Restroom at Pleasant Garden Town Hall and Volunteer Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85945365411301,
+     36.06025254510526
+    ]
+   },
+   "properties": {
+    "id": "parks:pomona-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Pomona Park restroom",
+    "detail": "Restroom at Pomona Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77441372950547,
+     36.10209768917301
+    ]
+   },
+   "properties": {
+    "id": "parks:revolution-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Revolution Park restroom",
+    "detail": "Restroom at Revolution Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00721075755165,
+     35.991478879358816
+    ]
+   },
+   "properties": {
+    "id": "parks:roy-b.-culler-jr.-senior-center-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Roy B. Culler Jr. Senior Center restroom",
+    "detail": "Restroom at Roy B. Culler Jr. Senior Center",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00268434006372,
+     36.01668680145154
+    ]
+   },
+   "properties": {
+    "id": "parks:sailboat-point-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Sailboat Point restroom",
+    "detail": "Restroom at Sailboat Point",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87106565668665,
+     35.939355675543275
+    ]
+   },
+   "properties": {
+    "id": "parks:southwest-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Southwest Park restroom",
+    "detail": "Restroom at Southwest Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87310307468861,
+     35.94108396571612
+    ]
+   },
+   "properties": {
+    "id": "parks:southwest-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Southwest Park restroom",
+    "detail": "Restroom at Southwest Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.874219687492,
+     35.94609764163892
+    ]
+   },
+   "properties": {
+    "id": "parks:southwest-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Southwest Park restroom",
+    "detail": "Restroom at Southwest Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97849871085134,
+     36.23261563765195
+    ]
+   },
+   "properties": {
+    "id": "parks:stokesdale-town-park-at-martin's-meadow-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Stokesdale Town Park at Martin's Meadow restroom",
+    "detail": "Restroom at Stokesdale Town Park at Martin's Meadow",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90719720528752,
+     36.21608701677272
+    ]
+   },
+   "properties": {
+    "id": "parks:summerfield-athletic-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Summerfield Athletic Park restroom",
+    "detail": "Restroom at Summerfield Athletic Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90481400188385,
+     36.21693096311892
+    ]
+   },
+   "properties": {
+    "id": "parks:summerfield-athletic-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Summerfield Athletic Park restroom",
+    "detail": "Restroom at Summerfield Athletic Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90858679895668,
+     36.20067356814999
+    ]
+   },
+   "properties": {
+    "id": "parks:summerfield-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Summerfield Community Park restroom",
+    "detail": "Restroom at Summerfield Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90803026247401,
+     36.19922149671384
+    ]
+   },
+   "properties": {
+    "id": "parks:summerfield-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Summerfield Community Park restroom",
+    "detail": "Restroom at Summerfield Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84150105486503,
+     36.092806744479844
+    ]
+   },
+   "properties": {
+    "id": "parks:tanger-family-bicentennial-garden-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Tanger Family Bicentennial Garden restroom",
+    "detail": "Restroom at Tanger Family Bicentennial Garden",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75544281830285,
+     35.97330702848537
+    ]
+   },
+   "properties": {
+    "id": "parks:volunteer-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Volunteer Park restroom",
+    "detail": "Restroom at Pleasant Garden Town Hall and Volunteer Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79802279093454,
+     36.05622767978656
+    ]
+   },
+   "properties": {
+    "id": "parks:warnersville-community-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Warnersville Community Park restroom",
+    "detail": "Restroom at Warnersville Community Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.98373156580948,
+     35.96810146928603
+    ]
+   },
+   "properties": {
+    "id": "parks:washington-terrace-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Washington Terrace Park restroom",
+    "detail": "Restroom at Washington Terrace Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.98499958870413,
+     35.9674401499757
+    ]
+   },
+   "properties": {
+    "id": "parks:washington-terrace-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Washington Terrace Park restroom",
+    "detail": "Restroom at Washington Terrace Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.0283269945344,
+     35.949361866788294
+    ]
+   },
+   "properties": {
+    "id": "parks:west-end-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "West End Park restroom",
+    "detail": "Restroom at West End Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8298930233533,
+     36.01094864040395
+    ]
+   },
+   "properties": {
+    "id": "parks:westbury-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Westbury Park restroom",
+    "detail": "Restroom at Westbury Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79762529862685,
+     36.02008411949082
+    ]
+   },
+   "properties": {
+    "id": "parks:woodlea-acres-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Woodlea Acres Park restroom",
+    "detail": "Restroom at Woodlea Acres Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75573881962795,
+     36.09984218106661
+    ]
+   },
+   "properties": {
+    "id": "parks:woodmere-park-1611",
+    "source": "parks",
+    "kind": "restroom",
+    "confidence": 0.9,
+    "name": "Woodmere Park restroom",
+    "detail": "Restroom at Woodmere Park",
+    "fetched_at": "2026-07-18T14:04:36.917674+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76807884093972,
+     36.09651543201171
+    ]
+   },
+   "properties": {
+    "id": "permit:202501874",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202501874)",
+    "detail": "Addition \u00b7 issued 2026-07-13 \u00b7 1515 SUMMIT AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75701942721763,
+     36.07575202656324
+    ]
+   },
+   "properties": {
+    "id": "permit:202517178",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202517178)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 2316 E MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80430984520143,
+     36.06843753145622
+    ]
+   },
+   "properties": {
+    "id": "permit:202517475",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202517475)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 924 WALKER AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88750142061596,
+     36.13662883355672
+    ]
+   },
+   "properties": {
+    "id": "permit:202522227",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202522227)",
+    "detail": "New Construction \u00b7 issued 2026-06-22 \u00b7 2900 HORSE PEN CREEK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80855010700573,
+     36.14410114941522
+    ]
+   },
+   "properties": {
+    "id": "permit:202522276",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202522276)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 832 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80787391983887,
+     36.14293082450103
+    ]
+   },
+   "properties": {
+    "id": "permit:202522277",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202522277)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 822 G ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80720618836413,
+     36.14414154885236
+    ]
+   },
+   "properties": {
+    "id": "permit:202522279",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202522279)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 834 G ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8057152929342,
+     36.14304639083616
+    ]
+   },
+   "properties": {
+    "id": "permit:202522282",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202522282)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 828 G ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80669922897292,
+     36.14325033449097
+    ]
+   },
+   "properties": {
+    "id": "permit:202522289",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202522289)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 834 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80845779069827,
+     36.143409538692275
+    ]
+   },
+   "properties": {
+    "id": "permit:202522318",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202522318)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 822 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80781835215831,
+     36.143445993198974
+    ]
+   },
+   "properties": {
+    "id": "permit:202522319",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202522319)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 824 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90107589794205,
+     36.057893121470116
+    ]
+   },
+   "properties": {
+    "id": "permit:202522776",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202522776)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 4424 W WENDOVER AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79289941581408,
+     36.13231014620157
+    ]
+   },
+   "properties": {
+    "id": "permit:202523654",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202523654)",
+    "detail": "New Construction \u00b7 issued 2026-07-06 \u00b7 207 PISGAH CHURCH RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80788015020791,
+     36.056433517805196
+    ]
+   },
+   "properties": {
+    "id": "permit:202600672",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202600672)",
+    "detail": "Accessory Building \u00b7 issued 2026-07-08 \u00b7 1109 HIGHLAND AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75580973954646,
+     36.108209892657015
+    ]
+   },
+   "properties": {
+    "id": "permit:202602945",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202602945)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-17 \u00b7 2103 104 PYRAMIDS VILLAGE BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.89871703591463,
+     36.016583887963066
+    ]
+   },
+   "properties": {
+    "id": "permit:202603966",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202603966)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 5710 HH W GATE CITY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80788987508194,
+     36.12014553058997
+    ]
+   },
+   "properties": {
+    "id": "permit:202604220",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202604220)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-17 \u00b7 3601 ROUND HILL RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83669775034343,
+     36.08764962885826
+    ]
+   },
+   "properties": {
+    "id": "permit:202604535",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202604535)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-17 \u00b7 3328 111 W FRIENDLY AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79065033914048,
+     36.13816225388082
+    ]
+   },
+   "properties": {
+    "id": "permit:202606557",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202606557)",
+    "detail": "New Construction \u00b7 issued 2026-06-22 \u00b7 4105 N CHURCH ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82770922901507,
+     36.15737864649061
+    ]
+   },
+   "properties": {
+    "id": "permit:202607358",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202607358)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 1803 TRADD CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87563840390769,
+     36.067666045216576
+    ]
+   },
+   "properties": {
+    "id": "permit:202607731",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202607731)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-18 \u00b7 4929 2105 W MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76769920575647,
+     36.11452491402326
+    ]
+   },
+   "properties": {
+    "id": "permit:202607854",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202607854)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-18 \u00b7 1423 E CONE BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9862766832089,
+     36.10888741222501
+    ]
+   },
+   "properties": {
+    "id": "permit:202607903",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202607903)",
+    "detail": "New Construction \u00b7 issued 2026-07-17 \u00b7 1203 FRANCES DAILY CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9478260581358,
+     36.06788621349327
+    ]
+   },
+   "properties": {
+    "id": "permit:202608100",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202608100)",
+    "detail": "Retaining Wall \u00b7 issued 2026-06-22 \u00b7 758 RW S CHIMNEY ROCK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74980716564242,
+     36.14619917304469
+    ]
+   },
+   "properties": {
+    "id": "permit:202608250",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202608250)",
+    "detail": "New Construction \u00b7 issued 2026-07-07 \u00b7 1927 BRIGHTWOOD LANDING LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8150425456461,
+     36.123939033710805
+    ]
+   },
+   "properties": {
+    "id": "permit:202608266",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202608266)",
+    "detail": "Retaining Wall \u00b7 issued 2026-07-15 \u00b7 4013 RW FURY LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84571907788495,
+     36.13635788558524
+    ]
+   },
+   "properties": {
+    "id": "permit:202608389",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202608389)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 3603 A COTSWOLD TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81164336730386,
+     35.9992925232619
+    ]
+   },
+   "properties": {
+    "id": "permit:202608427",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202608427)",
+    "detail": "New Construction \u00b7 issued 2026-06-22 \u00b7 1915 PENLEY TRL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82050182846689,
+     36.10597806624424
+    ]
+   },
+   "properties": {
+    "id": "permit:202608681",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202608681)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 2801 LAWNDALE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88467830632239,
+     36.05092627005114
+    ]
+   },
+   "properties": {
+    "id": "permit:202608703",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202608703)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 4905 KOGER BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90036664743482,
+     36.08515729451414
+    ]
+   },
+   "properties": {
+    "id": "permit:202608768",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202608768)",
+    "detail": "New Construction \u00b7 issued 2026-06-22 \u00b7 6116 M SUNDOWN DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.96976298683558,
+     36.105445465341354
+    ]
+   },
+   "properties": {
+    "id": "permit:202608870",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202608870)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-22 \u00b7 651 D BRIGHAM RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84725060378273,
+     36.03189845585364
+    ]
+   },
+   "properties": {
+    "id": "permit:202608905",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202608905)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 3103 GOODALL DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91330095849558,
+     36.09693538874116
+    ]
+   },
+   "properties": {
+    "id": "permit:202608951",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202608951)",
+    "detail": "Accessory Building \u00b7 issued 2026-07-13 \u00b7 5900 WAGON WHEEL DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79888919378651,
+     36.11357428736536
+    ]
+   },
+   "properties": {
+    "id": "permit:202608958",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202608958)",
+    "detail": "Addition \u00b7 issued 2026-07-15 \u00b7 7 PARKMONT CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8879351810149,
+     36.1018710296475
+    ]
+   },
+   "properties": {
+    "id": "permit:202608977",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.65,
+    "name": "Construction site (permit 202608977)",
+    "detail": "New Construction \u00b7 issued 2026-06-25 \u00b7 5707 BELVIDERE PL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.968093296424,
+     36.14046743394541
+    ]
+   },
+   "properties": {
+    "id": "permit:202609103",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202609103)",
+    "detail": "Initial Up-Fit \u00b7 issued 2026-07-06 \u00b7 2970 MEARNS CASTLE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78658370095245,
+     36.08472869383154
+    ]
+   },
+   "properties": {
+    "id": "permit:202609114",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202609114)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-09 \u00b7 836 OLIVE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7222895353601,
+     36.17740316081213
+    ]
+   },
+   "properties": {
+    "id": "permit:202609131",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202609131)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 6200 BRYAN PARK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76508477260086,
+     36.067337823102655
+    ]
+   },
+   "properties": {
+    "id": "permit:202609472",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202609472)",
+    "detail": "New Construction \u00b7 issued 2026-07-01 \u00b7 720 GILLESPIE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77379099208906,
+     36.09265994551846
+    ]
+   },
+   "properties": {
+    "id": "permit:202609517",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202609517)",
+    "detail": "New Construction \u00b7 issued 2026-06-22 \u00b7 1229 FAIRVIEW ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68794834705345,
+     36.18109210873308
+    ]
+   },
+   "properties": {
+    "id": "permit:202609522",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202609522)",
+    "detail": "New Construction \u00b7 issued 2026-07-10 \u00b7 5022 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87171861446691,
+     36.08810836125971
+    ]
+   },
+   "properties": {
+    "id": "permit:202609702",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202609702)",
+    "detail": "Addition \u00b7 issued 2026-06-25 \u00b7 5003 MANNING DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79086609789806,
+     36.07548788034538
+    ]
+   },
+   "properties": {
+    "id": "permit:202609704",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202609704)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 300 2100 N GREENE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86658134493437,
+     36.12848211533554
+    ]
+   },
+   "properties": {
+    "id": "permit:202609710",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202609710)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-22 \u00b7 3504 NORMANDY HILLS CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.90312524218456,
+     36.00361081308666
+    ]
+   },
+   "properties": {
+    "id": "permit:202609766",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202609766)",
+    "detail": "Addition \u00b7 issued 2026-06-25 \u00b7 29 PITLOCKRY PL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8205551868365,
+     36.12658754438187
+    ]
+   },
+   "properties": {
+    "id": "permit:202609945",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202609945)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 305 MILTWOOD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87937796996016,
+     36.12779931744386
+    ]
+   },
+   "properties": {
+    "id": "permit:202609964",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202609964)",
+    "detail": "Addition \u00b7 issued 2026-06-18 \u00b7 3529 TERRAULT DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81674930803858,
+     36.027932459330756
+    ]
+   },
+   "properties": {
+    "id": "permit:202610098",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202610098)",
+    "detail": "Addition \u00b7 issued 2026-06-26 \u00b7 1605 ORLANDO ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78200280247539,
+     36.1002186797332
+    ]
+   },
+   "properties": {
+    "id": "permit:202610217",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202610217)",
+    "detail": "Retaining Wall \u00b7 issued 2026-06-26 \u00b7 2001 N CHURCH ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78773462702142,
+     36.07732707649883
+    ]
+   },
+   "properties": {
+    "id": "permit:202610291",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202610291)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-25 \u00b7 335 CHURCH CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7549451900079,
+     36.061612521486886
+    ]
+   },
+   "properties": {
+    "id": "permit:202610367",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610367)",
+    "detail": "Addition \u00b7 issued 2026-07-06 \u00b7 1117 ARDMORE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.69003871137345,
+     36.18098878215571
+    ]
+   },
+   "properties": {
+    "id": "permit:202610513",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610513)",
+    "detail": "New Construction \u00b7 issued 2026-06-25 \u00b7 5101 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88986415782885,
+     36.13513011766393
+    ]
+   },
+   "properties": {
+    "id": "permit:202610554",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610554)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 801 DEWFIELD CV",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79310935571172,
+     36.10665596200788
+    ]
+   },
+   "properties": {
+    "id": "permit:202610565",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610565)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-18 \u00b7 106 ELMWOOD TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79081257951529,
+     36.10010918885343
+    ]
+   },
+   "properties": {
+    "id": "permit:202610601",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202610601)",
+    "detail": "Addition \u00b7 issued 2026-07-14 \u00b7 210 COUNTRY CLUB DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85013451152024,
+     36.150133749923405
+    ]
+   },
+   "properties": {
+    "id": "permit:202610608",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610608)",
+    "detail": "Deck \u00b7 issued 2026-06-18 \u00b7 5324 CANDLEWICK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75838991108296,
+     36.137849613518256
+    ]
+   },
+   "properties": {
+    "id": "permit:202610644",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610644)",
+    "detail": "New Construction \u00b7 issued 2026-07-15 \u00b7 1707 HELEN RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.94260711088427,
+     36.13670508982788
+    ]
+   },
+   "properties": {
+    "id": "permit:202610653",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610653)",
+    "detail": "Deck \u00b7 issued 2026-06-18 \u00b7 7110 CHAFTAIN PL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83024683540596,
+     36.15277915496809
+    ]
+   },
+   "properties": {
+    "id": "permit:202610655",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610655)",
+    "detail": "Deck \u00b7 issued 2026-06-18 \u00b7 5403 MCNAIRY DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84896748213642,
+     36.07544842421496
+    ]
+   },
+   "properties": {
+    "id": "permit:202610691",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610691)",
+    "detail": "Deck \u00b7 issued 2026-06-23 \u00b7 6 CLUBVIEW CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68732143284058,
+     36.18290259837703
+    ]
+   },
+   "properties": {
+    "id": "permit:202610711",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610711)",
+    "detail": "New Construction \u00b7 issued 2026-07-10 \u00b7 4913 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68645340881187,
+     36.181898827529075
+    ]
+   },
+   "properties": {
+    "id": "permit:202610717",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610717)",
+    "detail": "New Construction \u00b7 issued 2026-06-25 \u00b7 5007 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78232906543953,
+     36.10266992552329
+    ]
+   },
+   "properties": {
+    "id": "permit:202610722",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202610722)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 2208 GOLDEN GATE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.89537186538627,
+     36.14522711421427
+    ]
+   },
+   "properties": {
+    "id": "permit:202610723",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610723)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 4802 LEWISTON MEADOWS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.689590700197,
+     36.18543537181174
+    ]
+   },
+   "properties": {
+    "id": "permit:202610726",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610726)",
+    "detail": "New Construction \u00b7 issued 2026-07-07 \u00b7 4803 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81699540593091,
+     36.07590718462268
+    ]
+   },
+   "properties": {
+    "id": "permit:202610757",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.15,
+    "name": "Construction site (permit 202610757)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-06 \u00b7 1707 ROLLING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8840439851714,
+     36.02237506354686
+    ]
+   },
+   "properties": {
+    "id": "permit:202610768",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610768)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 3926 SEDGEFIELD GREEN PL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74738331932701,
+     36.089916572469626
+    ]
+   },
+   "properties": {
+    "id": "permit:202610771",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610771)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 912 WILLARD ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68872226001373,
+     36.18079017379143
+    ]
+   },
+   "properties": {
+    "id": "permit:202610780",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610780)",
+    "detail": "New Construction \u00b7 issued 2026-06-25 \u00b7 5043 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87068818156017,
+     36.06375619188129
+    ]
+   },
+   "properties": {
+    "id": "permit:202610795",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610795)",
+    "detail": "New Construction \u00b7 issued 2026-07-07 \u00b7 500 NORWALK ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87103624535278,
+     36.063762737207355
+    ]
+   },
+   "properties": {
+    "id": "permit:202610812",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610812)",
+    "detail": "New Construction \u00b7 issued 2026-07-07 \u00b7 4403 RAILWAY AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80379280733229,
+     36.113210467026775
+    ]
+   },
+   "properties": {
+    "id": "permit:202610813",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202610813)",
+    "detail": "Addition \u00b7 issued 2026-07-09 \u00b7 4 ST FRANCIS CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7240328911,
+     36.135276052659925
+    ]
+   },
+   "properties": {
+    "id": "permit:202610822",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610822)",
+    "detail": "New Construction \u00b7 issued 2026-06-26 \u00b7 3541 MCKNIGHT MILL RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77675049668696,
+     36.04950669130006
+    ]
+   },
+   "properties": {
+    "id": "permit:202610852",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610852)",
+    "detail": "New Construction \u00b7 issued 2026-07-13 \u00b7 1911 MARTIN LUTHER KING JR DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.681995155926,
+     36.071323128739024
+    ]
+   },
+   "properties": {
+    "id": "permit:202610853",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610853)",
+    "detail": "New Construction \u00b7 issued 2026-06-26 \u00b7 733 TORBAY DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.00522520269499,
+     36.10632803909765
+    ]
+   },
+   "properties": {
+    "id": "permit:202610916",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202610916)",
+    "detail": "Addition \u00b7 issued 2026-07-13 \u00b7 9068 W MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68637510514534,
+     36.18140853720694
+    ]
+   },
+   "properties": {
+    "id": "permit:202610928",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610928)",
+    "detail": "New Construction \u00b7 issued 2026-07-10 \u00b7 5015 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6901928812163,
+     36.181474350214096
+    ]
+   },
+   "properties": {
+    "id": "permit:202610931",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610931)",
+    "detail": "New Construction \u00b7 issued 2026-07-10 \u00b7 5102 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74166797816187,
+     36.09757424912285
+    ]
+   },
+   "properties": {
+    "id": "permit:202610944",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202610944)",
+    "detail": "Accessory Building \u00b7 issued 2026-06-29 \u00b7 1433 OLD HICKORY DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68997630360073,
+     36.185124169419794
+    ]
+   },
+   "properties": {
+    "id": "permit:202610945",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202610945)",
+    "detail": "New Construction \u00b7 issued 2026-06-25 \u00b7 4800 REEDY CREEK FARM CIR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.66496172002604,
+     36.05787454593708
+    ]
+   },
+   "properties": {
+    "id": "permit:202611005",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611005)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 5357 ROSHNI TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84998464154509,
+     36.066545922441534
+    ]
+   },
+   "properties": {
+    "id": "permit:202611026",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611026)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-17 \u00b7 517 ROSEBRIAR CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.92408365666664,
+     36.091027600611056
+    ]
+   },
+   "properties": {
+    "id": "permit:202611031",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611031)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-13 \u00b7 420 B N CHIMNEY ROCK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.853823117121,
+     36.09656926491195
+    ]
+   },
+   "properties": {
+    "id": "permit:202611074",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611074)",
+    "detail": "Addition \u00b7 issued 2026-07-13 \u00b7 902 FAIRGREEN RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81712759536104,
+     36.06681330406459
+    ]
+   },
+   "properties": {
+    "id": "permit:202611079",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611079)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-06 \u00b7 606 MAYFLOWER DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76233211724525,
+     36.06508590588221
+    ]
+   },
+   "properties": {
+    "id": "permit:202611095",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611095)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 2001 LINDA JONES AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88180395052431,
+     36.003759039425105
+    ]
+   },
+   "properties": {
+    "id": "permit:202611096",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.65,
+    "name": "Construction site (permit 202611096)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 3705 DOVER PARK RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74731149751264,
+     36.09025520359591
+    ]
+   },
+   "properties": {
+    "id": "permit:202611137",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611137)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 916 WILLARD ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86323687626965,
+     36.125578126361226
+    ]
+   },
+   "properties": {
+    "id": "permit:202611142",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611142)",
+    "detail": "Deck \u00b7 issued 2026-07-01 \u00b7 3404 CROSSTIMBERS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.89412336766408,
+     36.133904263149674
+    ]
+   },
+   "properties": {
+    "id": "permit:202611199",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611199)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 634 SPRING BLOSSOM TRCE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6869076054212,
+     36.08430609254848
+    ]
+   },
+   "properties": {
+    "id": "permit:202611202",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611202)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 1006 KILBY RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.65927327357934,
+     36.036066580102954
+    ]
+   },
+   "properties": {
+    "id": "permit:202611204",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611204)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 4107 LINCOLN MILL DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.66430002391067,
+     36.05769166570685
+    ]
+   },
+   "properties": {
+    "id": "permit:202611271",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611271)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 5360 ROSHNI TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82953236561691,
+     36.15745017139364
+    ]
+   },
+   "properties": {
+    "id": "permit:202611433",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611433)",
+    "detail": "Deck \u00b7 issued 2026-07-09 \u00b7 5614 TRADD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8576453228286,
+     36.03384751734384
+    ]
+   },
+   "properties": {
+    "id": "permit:202611471",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611471)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-18 \u00b7 3703 FARMINGTON DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87762759895747,
+     36.11194671897973
+    ]
+   },
+   "properties": {
+    "id": "permit:202611476",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611476)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-18 \u00b7 1608 HIGHWOODS BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.70304229615412,
+     36.06116859266394
+    ]
+   },
+   "properties": {
+    "id": "permit:202611479",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611479)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-18 \u00b7 3618 101 MCCONNELL RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80648189465285,
+     36.102865204585015
+    ]
+   },
+   "properties": {
+    "id": "permit:202611483",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611483)",
+    "detail": "New Construction \u00b7 issued 2026-07-02 \u00b7 905 BROOKSIDE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75326354506034,
+     36.02723598554213
+    ]
+   },
+   "properties": {
+    "id": "permit:202611484",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611484)",
+    "detail": "New Construction \u00b7 issued 2026-07-06 \u00b7 2815 KILPATRICK-WHITE RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79051173465976,
+     36.07285592513284
+    ]
+   },
+   "properties": {
+    "id": "permit:202611514",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611514)",
+    "detail": "Reroof \u00b7 issued 2026-06-18 \u00b7 101 N ELM ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7705977453239,
+     36.09904887597481
+    ]
+   },
+   "properties": {
+    "id": "permit:202611587",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611587)",
+    "detail": "Deck \u00b7 issued 2026-07-09 \u00b7 1615 UPLAND DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74298122536375,
+     36.07841949323331
+    ]
+   },
+   "properties": {
+    "id": "permit:202611592",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611592)",
+    "detail": "Deck \u00b7 issued 2026-07-07 \u00b7 319 GUERRANT ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77307746436318,
+     36.02689494635636
+    ]
+   },
+   "properties": {
+    "id": "permit:202611609",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202611609)",
+    "detail": "Repair \u00b7 issued 2026-06-22 \u00b7 3112 PLEASANT GARDEN RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.66602394056528,
+     36.05747852584717
+    ]
+   },
+   "properties": {
+    "id": "permit:202611617",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611617)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 5340 ROSHNI TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8063573354883,
+     36.051581103027814
+    ]
+   },
+   "properties": {
+    "id": "permit:202611626",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611626)",
+    "detail": "Int/Ext Demolition \u00b7 issued 2026-06-22 \u00b7 825 W FLORIDA ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.97894431888413,
+     36.13326401331983
+    ]
+   },
+   "properties": {
+    "id": "permit:202611649",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611649)",
+    "detail": "New Construction \u00b7 issued 2026-07-15 \u00b7 3922 CASSILLIS WAY",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.76575732270824,
+     36.123795481830946
+    ]
+   },
+   "properties": {
+    "id": "permit:202611650",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611650)",
+    "detail": "Reroof \u00b7 issued 2026-06-22 \u00b7 3502 AMOS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9790305523361,
+     36.13281311039484
+    ]
+   },
+   "properties": {
+    "id": "permit:202611652",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611652)",
+    "detail": "New Construction \u00b7 issued 2026-07-15 \u00b7 3916 CASSILLIS WAY",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84461244190126,
+     36.042324723760736
+    ]
+   },
+   "properties": {
+    "id": "permit:202611654",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611654)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-22 \u00b7 3220 W GATE CITY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68298214963107,
+     36.04549472176975
+    ]
+   },
+   "properties": {
+    "id": "permit:202611656",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611656)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 2707 ORANGE BLOSSOM ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83698998958575,
+     36.14225898143812
+    ]
+   },
+   "properties": {
+    "id": "permit:202611692",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611692)",
+    "detail": "Deck \u00b7 issued 2026-07-10 \u00b7 3302 REGENTS PARK LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81739006838383,
+     36.10528706963191
+    ]
+   },
+   "properties": {
+    "id": "permit:202611723",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611723)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-23 \u00b7 2000 INDEPENDENCE RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82484477284417,
+     36.07804751357193
+    ]
+   },
+   "properties": {
+    "id": "permit:202611725",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611725)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-23 \u00b7 2207 PINECREST RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86122524621001,
+     36.10719085722269
+    ]
+   },
+   "properties": {
+    "id": "permit:202611745",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611745)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-13 \u00b7 1215 HEATHROW DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80478514344257,
+     36.06391431880151
+    ]
+   },
+   "properties": {
+    "id": "permit:202611764",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611764)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-23 \u00b7 842 W GATE CITY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7994044714102,
+     36.12471183646188
+    ]
+   },
+   "properties": {
+    "id": "permit:202611774",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611774)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-23 \u00b7 4 NORTH POINTE CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.864715516094,
+     36.13044424891041
+    ]
+   },
+   "properties": {
+    "id": "permit:202611776",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611776)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-23 \u00b7 3105 BRASSFIELD RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81115024190089,
+     35.99928268284269
+    ]
+   },
+   "properties": {
+    "id": "permit:202611788",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611788)",
+    "detail": "New Construction \u00b7 issued 2026-07-09 \u00b7 1909 PENLEY TRL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80091932689274,
+     36.116374781868366
+    ]
+   },
+   "properties": {
+    "id": "permit:202611792",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611792)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-24 \u00b7 404 WILLOUGHBY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86163057994655,
+     36.104905260251485
+    ]
+   },
+   "properties": {
+    "id": "permit:202611794",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611794)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-24 \u00b7 1324 WESTRIDGE FOREST CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77963483768217,
+     36.073327771593576
+    ]
+   },
+   "properties": {
+    "id": "permit:202611805",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611805)",
+    "detail": "Addition \u00b7 issued 2026-07-10 \u00b7 208 BEECH ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8107101480887,
+     36.16289984864105
+    ]
+   },
+   "properties": {
+    "id": "permit:202611811",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611811)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-24 \u00b7 1000 NORTHERN SHORES LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79338246783404,
+     36.078831338857356
+    ]
+   },
+   "properties": {
+    "id": "permit:202611820",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611820)",
+    "detail": "Total Demolish \u00b7 issued 2026-06-24 \u00b7 582 N EUGENE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.99075480313758,
+     36.10409993675538
+    ]
+   },
+   "properties": {
+    "id": "permit:202611822",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611822)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-24 \u00b7 8900 W MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73667904492027,
+     36.07710417410685
+    ]
+   },
+   "properties": {
+    "id": "permit:202611831",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202611831)",
+    "detail": "Repair \u00b7 issued 2026-07-01 \u00b7 3940 HAHNS LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95749952095764,
+     36.07661485650791
+    ]
+   },
+   "properties": {
+    "id": "permit:202611832",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611832)",
+    "detail": "Reroof \u00b7 issued 2026-06-24 \u00b7 605 S REGIONAL RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79640364988555,
+     36.10964085781211
+    ]
+   },
+   "properties": {
+    "id": "permit:202611842",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611842)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-24 \u00b7 117 WILLOUGHBY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8253914133936,
+     36.07667063645988
+    ]
+   },
+   "properties": {
+    "id": "permit:202611884",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611884)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-13 \u00b7 207 WEST GREENWAY DR N",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72367905600207,
+     36.14076652011449
+    ]
+   },
+   "properties": {
+    "id": "permit:202611899",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611899)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 3002 NESTLES AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7929108816478,
+     36.09347575472123
+    ]
+   },
+   "properties": {
+    "id": "permit:202611920",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202611920)",
+    "detail": "Repair \u00b7 issued 2026-06-25 \u00b7 309 MEADOWBROOK TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.65608584855924,
+     36.05796828294121
+    ]
+   },
+   "properties": {
+    "id": "permit:202611923",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202611923)",
+    "detail": "Int/Ext Demolition \u00b7 issued 2026-06-25 \u00b7 5420 MILLSTREAM RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.65878015382346,
+     36.035521509299116
+    ]
+   },
+   "properties": {
+    "id": "permit:202611944",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202611944)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 4112 LINCOLN MILL DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80135336624322,
+     36.08099512312633
+    ]
+   },
+   "properties": {
+    "id": "permit:202611956",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202611956)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-26 \u00b7 1015 BATTLEGROUND AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88875401938368,
+     36.027827073282054
+    ]
+   },
+   "properties": {
+    "id": "permit:202611987",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202611987)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 27 HARTSFIELD CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8007978487152,
+     36.08060313087871
+    ]
+   },
+   "properties": {
+    "id": "permit:202612021",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612021)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-26 \u00b7 1013 BATTLEGROUND AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80892812625285,
+     36.02496960701822
+    ]
+   },
+   "properties": {
+    "id": "permit:202612040",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612040)",
+    "detail": "Repair \u00b7 issued 2026-06-26 \u00b7 3551 F LYNHAVEN DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82174336112574,
+     36.07499663031021
+    ]
+   },
+   "properties": {
+    "id": "permit:202612059",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612059)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-26 \u00b7 1907 MADISON AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8195590798846,
+     36.14332232874289
+    ]
+   },
+   "properties": {
+    "id": "permit:202612060",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612060)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-26 \u00b7 19 MIDDLEFIELD CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79484527517175,
+     36.08540018250478
+    ]
+   },
+   "properties": {
+    "id": "permit:202612075",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612075)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 1017 WHARTON ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7870619607427,
+     36.07674569543451
+    ]
+   },
+   "properties": {
+    "id": "permit:202612090",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612090)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 225 SUMMIT AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75002128911866,
+     36.05862631173771
+    ]
+   },
+   "properties": {
+    "id": "permit:202612109",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612109)",
+    "detail": "Accessory Building \u00b7 issued 2026-07-14 \u00b7 1317 CYRIL LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87699199018549,
+     36.077451098008886
+    ]
+   },
+   "properties": {
+    "id": "permit:202612113",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612113)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-29 \u00b7 4920 B TOWER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75109530149223,
+     36.14482120775364
+    ]
+   },
+   "properties": {
+    "id": "permit:202612123",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202612123)",
+    "detail": "New Construction \u00b7 issued 2026-07-17 \u00b7 4605 ABSHIRE LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85986561022447,
+     36.10062174671465
+    ]
+   },
+   "properties": {
+    "id": "permit:202612128",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612128)",
+    "detail": "Deck \u00b7 issued 2026-07-15 \u00b7 1121 WESTRIDGE RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87628765697967,
+     36.100165813791996
+    ]
+   },
+   "properties": {
+    "id": "permit:202612141",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612141)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-29 \u00b7 5205 BENNINGTON DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81665592080047,
+     36.06533197143591
+    ]
+   },
+   "properties": {
+    "id": "permit:202612177",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612177)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-30 \u00b7 711 MAYFLOWER DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8220874027005,
+     36.05301742951847
+    ]
+   },
+   "properties": {
+    "id": "permit:202612178",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612178)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-30 \u00b7 1903 ELWOOD AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87767608662006,
+     36.12362492627333
+    ]
+   },
+   "properties": {
+    "id": "permit:202612179",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612179)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-30 \u00b7 3309 TERRAULT DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80049876690939,
+     36.068284813787905
+    ]
+   },
+   "properties": {
+    "id": "permit:202612180",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612180)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-02 \u00b7 706 WALKER AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.75835802486695,
+     36.090077726464074
+    ]
+   },
+   "properties": {
+    "id": "permit:202612181",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612181)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-06-30 \u00b7 1922 TAYLOR ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.92943284730211,
+     36.149141503063554
+    ]
+   },
+   "properties": {
+    "id": "permit:202612189",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612189)",
+    "detail": "Repair \u00b7 issued 2026-06-30 \u00b7 6491 WINNINGTON CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72295312590062,
+     36.14019343356692
+    ]
+   },
+   "properties": {
+    "id": "permit:202612223",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202612223)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 501 SHEARDOWN CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91050779729638,
+     36.061770365578624
+    ]
+   },
+   "properties": {
+    "id": "permit:202612227",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612227)",
+    "detail": "Miscellaneous \u00b7 issued 2026-06-30 \u00b7 506 NICHOLAS RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79185752648426,
+     35.99744124571361
+    ]
+   },
+   "properties": {
+    "id": "permit:202612242",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612242)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-01 \u00b7 4017 S ELM-EUGENE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82088989364516,
+     36.157272621462816
+    ]
+   },
+   "properties": {
+    "id": "permit:202612297",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612297)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-01 \u00b7 205 MARY WIL CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.84394865248181,
+     36.09765915148514
+    ]
+   },
+   "properties": {
+    "id": "permit:202612299",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612299)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-01 \u00b7 1024 BROWNING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82274200001324,
+     36.07296546474803
+    ]
+   },
+   "properties": {
+    "id": "permit:202612300",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612300)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-01 \u00b7 200 S CHAPMAN ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82525784122839,
+     36.070171479143724
+    ]
+   },
+   "properties": {
+    "id": "permit:202612301",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612301)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-01 \u00b7 2124 WRIGHT AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.89813068214113,
+     36.07726703942104
+    ]
+   },
+   "properties": {
+    "id": "permit:202612309",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612309)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-01 \u00b7 5800 W MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6864857353211,
+     36.084442952281506
+    ]
+   },
+   "properties": {
+    "id": "permit:202612314",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202612314)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 1005 KILBY RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.72354718553864,
+     36.14114048113254
+    ]
+   },
+   "properties": {
+    "id": "permit:202612315",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.55,
+    "name": "Construction site (permit 202612315)",
+    "detail": "New Construction \u00b7 issued 2026-07-16 \u00b7 3006 NESTLES AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.6995092699856,
+     36.05630983264583
+    ]
+   },
+   "properties": {
+    "id": "permit:202612322",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612322)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-01 \u00b7 4747 MCCONNELL CENTER DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87422736821311,
+     36.10297973225797
+    ]
+   },
+   "properties": {
+    "id": "permit:202612325",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612325)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-02 \u00b7 3 FERN BLUFF CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91973473572871,
+     36.12560235715056
+    ]
+   },
+   "properties": {
+    "id": "permit:202612330",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612330)",
+    "detail": "Deck \u00b7 issued 2026-07-17 \u00b7 6106 DAWN RIDGE TRL",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78690510374109,
+     36.10700856012756
+    ]
+   },
+   "properties": {
+    "id": "permit:202612350",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612350)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-02 \u00b7 10 F FOUNTAIN MANOR DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87742780269649,
+     36.00261209819793
+    ]
+   },
+   "properties": {
+    "id": "permit:202612409",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612409)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-02 \u00b7 4302 RAVENSTONE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78458245231167,
+     36.06048168961868
+    ]
+   },
+   "properties": {
+    "id": "permit:202612526",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612526)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-06 \u00b7 513 JULIAN ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85096268004565,
+     36.01187603946394
+    ]
+   },
+   "properties": {
+    "id": "permit:202612531",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612531)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-06 \u00b7 3607 30 MCCUISTON RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77093586488557,
+     36.068417907129685
+    ]
+   },
+   "properties": {
+    "id": "permit:202612535",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612535)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-06 \u00b7 606 S BENBOW RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8287356126934,
+     36.16862562741552
+    ]
+   },
+   "properties": {
+    "id": "permit:202612548",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612548)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-06 \u00b7 24 ASHER LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88702196604132,
+     36.02290095406892
+    ]
+   },
+   "properties": {
+    "id": "permit:202612590",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202612590)",
+    "detail": "New Construction \u00b7 issued 2026-07-07 \u00b7 3510 CA PIN HIGH DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83091128616961,
+     36.05495067358313
+    ]
+   },
+   "properties": {
+    "id": "permit:202612594",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612594)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 2507 W GATE CITY BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81384470861516,
+     36.12591210297534
+    ]
+   },
+   "properties": {
+    "id": "permit:202612597",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612597)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 28 MIDLAND PARK LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83452515290728,
+     36.114631808558556
+    ]
+   },
+   "properties": {
+    "id": "permit:202612605",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612605)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 2936 A BATTLEGROUND AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.68311340321226,
+     36.069798494918345
+    ]
+   },
+   "properties": {
+    "id": "permit:202612618",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612618)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 718 BRAMPTON DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79146260121964,
+     36.067252763974565
+    ]
+   },
+   "properties": {
+    "id": "permit:202612629",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612629)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-07 \u00b7 106 BARNHARDT ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81488362419013,
+     36.115518780765946
+    ]
+   },
+   "properties": {
+    "id": "permit:202612632",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612632)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 1822 CANAAN DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7986437374914,
+     36.09635163684167
+    ]
+   },
+   "properties": {
+    "id": "permit:202612637",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612637)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 605 SUNSET DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8267446229865,
+     36.10157796442677
+    ]
+   },
+   "properties": {
+    "id": "permit:202612651",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612651)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-07 \u00b7 2508 NETHERWOOD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.778684134904,
+     36.05626182012574
+    ]
+   },
+   "properties": {
+    "id": "permit:202612657",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612657)",
+    "detail": "Reroof \u00b7 issued 2026-07-07 \u00b7 820 ROSS AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77365422543023,
+     36.13644981057319
+    ]
+   },
+   "properties": {
+    "id": "permit:202612708",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202612708)",
+    "detail": "New Construction \u00b7 issued 2026-07-08 \u00b7 3956 YANCEYVILLE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79043722012821,
+     36.12733235202022
+    ]
+   },
+   "properties": {
+    "id": "permit:202612715",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.5,
+    "name": "Construction site (permit 202612715)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 3517 N CHURCH ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83166873762295,
+     36.06583441700707
+    ]
+   },
+   "properties": {
+    "id": "permit:202612717",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612717)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 717 NORTHRIDGE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82172311410297,
+     36.076606380699
+    ]
+   },
+   "properties": {
+    "id": "permit:202612742",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612742)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 303 WOODBINE CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.70228053848324,
+     36.17083788134999
+    ]
+   },
+   "properties": {
+    "id": "permit:202612751",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612751)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 3934 RIBBON GRASS TER",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.73073175318066,
+     36.18759408557229
+    ]
+   },
+   "properties": {
+    "id": "permit:202612764",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.6,
+    "name": "Construction site (permit 202612764)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-08 \u00b7 6269 TOWNSEND RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80623579423532,
+     36.09042481358647
+    ]
+   },
+   "properties": {
+    "id": "permit:202612766",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612766)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-08 \u00b7 1205 W NORTHWOOD ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86201375716242,
+     36.03555611178945
+    ]
+   },
+   "properties": {
+    "id": "permit:202612806",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612806)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-09 \u00b7 2404 C MERRITT DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82850900595743,
+     36.10589852386312
+    ]
+   },
+   "properties": {
+    "id": "permit:202612807",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612807)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-09 \u00b7 2713 PINEDALE RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78497306571298,
+     36.10285679311674
+    ]
+   },
+   "properties": {
+    "id": "permit:202612825",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612825)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-09 \u00b7 309 E CORNWALLIS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9635323228586,
+     36.082916685698684
+    ]
+   },
+   "properties": {
+    "id": "permit:202612830",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612830)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-09 \u00b7 204 CENTREPORT DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.88897907553846,
+     36.08730684589466
+    ]
+   },
+   "properties": {
+    "id": "permit:202612834",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612834)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-09 \u00b7 605 COLLEGE RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85230706802001,
+     36.090569274665604
+    ]
+   },
+   "properties": {
+    "id": "permit:202612836",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612836)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-09 \u00b7 600 SEVEN OAKS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77682331328631,
+     36.0244144838382
+    ]
+   },
+   "properties": {
+    "id": "permit:202612846",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612846)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-09 \u00b7 601 DIAMOND HILL CT",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85408994137323,
+     36.04978567412557
+    ]
+   },
+   "properties": {
+    "id": "permit:202612858",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612858)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 1501 MERRITT DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82337230917969,
+     36.06974676827722
+    ]
+   },
+   "properties": {
+    "id": "permit:202612869",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612869)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 400 S CHAPMAN ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8646964220141,
+     36.15129252559371
+    ]
+   },
+   "properties": {
+    "id": "permit:202612870",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612870)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 3406 OLD BARN RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82993630157262,
+     36.14283920066276
+    ]
+   },
+   "properties": {
+    "id": "permit:202612872",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612872)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 2708 REGENTS PARK LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80529193023979,
+     36.07022414572087
+    ]
+   },
+   "properties": {
+    "id": "permit:202612873",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612873)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 301 S TATE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.87602663037985,
+     36.11393630654644
+    ]
+   },
+   "properties": {
+    "id": "permit:202612901",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612901)",
+    "detail": "Reroof \u00b7 issued 2026-07-13 \u00b7 1628 HIGHWOODS BLVD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.77407076915807,
+     36.085815105880116
+    ]
+   },
+   "properties": {
+    "id": "permit:202612914",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612914)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 1006 SUMMIT AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78814429122713,
+     36.14607686874494
+    ]
+   },
+   "properties": {
+    "id": "permit:202612934",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202612934)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-10 \u00b7 4704 COLTSFOOT RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82801237624027,
+     36.10395133460734
+    ]
+   },
+   "properties": {
+    "id": "permit:202612941",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612941)",
+    "detail": "Reroof \u00b7 issued 2026-07-10 \u00b7 2519 OAKCREST AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91271333561994,
+     36.06566034010195
+    ]
+   },
+   "properties": {
+    "id": "permit:202612964",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612964)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-13 \u00b7 410 A S SWING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91268026995418,
+     36.065982515518414
+    ]
+   },
+   "properties": {
+    "id": "permit:202612965",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612965)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-13 \u00b7 410 AB S SWING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91188238404709,
+     36.06612350319787
+    ]
+   },
+   "properties": {
+    "id": "permit:202612967",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612967)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-13 \u00b7 410 E S SWING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91166976754785,
+     36.065636400662534
+    ]
+   },
+   "properties": {
+    "id": "permit:202612968",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202612968)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-13 \u00b7 410 F S SWING RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85653090895939,
+     36.08469309584371
+    ]
+   },
+   "properties": {
+    "id": "permit:202612996",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202612996)",
+    "detail": "Int/Ext Demolition \u00b7 issued 2026-07-13 \u00b7 202 KEMP RD W",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.74736623754242,
+     36.07852831051114
+    ]
+   },
+   "properties": {
+    "id": "permit:202613010",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613010)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-13 \u00b7 3602 BUSIC AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.83530707760399,
+     36.050855493598746
+    ]
+   },
+   "properties": {
+    "id": "permit:202613031",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202613031)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-13 \u00b7 2710 HAYDEN ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80756204356575,
+     36.14409453548541
+    ]
+   },
+   "properties": {
+    "id": "permit:202613102",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202613102)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 836 G ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80510623786572,
+     36.143029462040644
+    ]
+   },
+   "properties": {
+    "id": "permit:202613106",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.7,
+    "name": "Construction site (permit 202613106)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 832 G ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80672018403185,
+     36.14392558788565
+    ]
+   },
+   "properties": {
+    "id": "permit:202613110",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202613110)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 826 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80591111809362,
+     36.14357688731552
+    ]
+   },
+   "properties": {
+    "id": "permit:202613115",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202613115)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 828 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80530505377835,
+     36.14347521889895
+    ]
+   },
+   "properties": {
+    "id": "permit:202613116",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.8,
+    "name": "Construction site (permit 202613116)",
+    "detail": "New Construction \u00b7 issued 2026-07-14 \u00b7 830 ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79071830663221,
+     36.069678058078004
+    ]
+   },
+   "properties": {
+    "id": "permit:202613120",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613120)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-14 \u00b7 312 S ELM ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8671937347974,
+     36.06837473465003
+    ]
+   },
+   "properties": {
+    "id": "permit:202613154",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613154)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-14 \u00b7 4653 W MARKET ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82409604422163,
+     36.07014442381932
+    ]
+   },
+   "properties": {
+    "id": "permit:202613171",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613171)",
+    "detail": "Reroof \u00b7 issued 2026-07-14 \u00b7 2110 WRIGHT AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80893707180975,
+     36.14385209836944
+    ]
+   },
+   "properties": {
+    "id": "permit:202613183",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613183)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-15 \u00b7 832 S ROBERSON COMER RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81548917717481,
+     36.12457929778721
+    ]
+   },
+   "properties": {
+    "id": "permit:202613209",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613209)",
+    "detail": "Retaining Wall \u00b7 issued 2026-07-15 \u00b7 4010 RW FURY LN",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.82390576239756,
+     36.129397776630995
+    ]
+   },
+   "properties": {
+    "id": "permit:202613210",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613210)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 2008 THREE MEADOWS RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81528105953367,
+     36.12537516237139
+    ]
+   },
+   "properties": {
+    "id": "permit:202613211",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613211)",
+    "detail": "Retaining Wall \u00b7 issued 2026-07-15 \u00b7 2021 RW JOLLY WAY",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8220885456733,
+     36.161447709710664
+    ]
+   },
+   "properties": {
+    "id": "permit:202613214",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613214)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 5711 WRENWOOD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81705084417209,
+     36.04667237215266
+    ]
+   },
+   "properties": {
+    "id": "permit:202613217",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613217)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 1604 ONTARIO ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.86454383338001,
+     36.0946333139288
+    ]
+   },
+   "properties": {
+    "id": "permit:202613219",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613219)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 711 PEBBLE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9012287963257,
+     36.08139363087957
+    ]
+   },
+   "properties": {
+    "id": "permit:202613221",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613221)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 406 OVERMAN ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79325366636684,
+     36.08235767713373
+    ]
+   },
+   "properties": {
+    "id": "permit:202613222",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613222)",
+    "detail": "Reroof \u00b7 issued 2026-07-15 \u00b7 818 N EUGENE ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95045406642949,
+     36.084328603963854
+    ]
+   },
+   "properties": {
+    "id": "permit:202613261",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613261)",
+    "detail": "Int/Ext Demolition \u00b7 issued 2026-07-15 \u00b7 7209 CESSNA DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78899684881395,
+     36.063805006055944
+    ]
+   },
+   "properties": {
+    "id": "permit:202613263",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613263)",
+    "detail": "Total Demolish \u00b7 issued 2026-07-15 \u00b7 507 ARLINGTON ST",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.81536630538258,
+     36.10883847800991
+    ]
+   },
+   "properties": {
+    "id": "permit:202613267",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613267)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-15 \u00b7 2701 DELLWOOD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.78453338764983,
+     36.0678370043966
+    ]
+   },
+   "properties": {
+    "id": "permit:202613285",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613285)",
+    "detail": "Repair \u00b7 issued 2026-07-16 \u00b7 205 2D MCADOO AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.92240174741717,
+     36.06414404709528
+    ]
+   },
+   "properties": {
+    "id": "permit:202613297",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613297)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-16 \u00b7 6215 SWIGGETT RD",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.80245363409739,
+     36.124602585524805
+    ]
+   },
+   "properties": {
+    "id": "permit:202613306",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202613306)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-16 \u00b7 3605 PRIMROSE AVE",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.885259229896,
+     36.114469401984465
+    ]
+   },
+   "properties": {
+    "id": "permit:202613334",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.35,
+    "name": "Construction site (permit 202613334)",
+    "detail": "Int/Ext Alterations \u00b7 issued 2026-07-16 \u00b7 1818 NEW BEDFORD DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.91607673039154,
+     36.15378897564268
+    ]
+   },
+   "properties": {
+    "id": "permit:202613364",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613364)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-17 \u00b7 5806 S SPANGLER OAKS DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.89449726075327,
+     36.02132525135362
+    ]
+   },
+   "properties": {
+    "id": "permit:202613371",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613371)",
+    "detail": "Place on Lot \u00b7 issued 2026-07-17 \u00b7 5626 113 ATWATER DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.95042346961318,
+     36.08061999258016
+    ]
+   },
+   "properties": {
+    "id": "permit:202613380",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613380)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-17 \u00b7 7707 BOEING DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8602993287849,
+     36.05896454564678
+    ]
+   },
+   "properties": {
+    "id": "permit:202613389",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.45,
+    "name": "Construction site (permit 202613389)",
+    "detail": "Reroof \u00b7 issued 2026-07-17 \u00b7 5 OAK BRANCH DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.79815076732223,
+     36.011398411865805
+    ]
+   },
+   "properties": {
+    "id": "permit:202613400",
+    "source": "permit",
+    "kind": "porta_potty_likely",
+    "confidence": 0.3,
+    "name": "Construction site (permit 202613400)",
+    "detail": "Miscellaneous \u00b7 issued 2026-07-17 \u00b7 206 BROOK PINE DR",
+    "fetched_at": "2026-07-18T14:09:42.733094+00:00"
+   }
+  }
+ ]
+}

@@ -1,0 +1,177 @@
+{
+ "source": "greensboro_permits",
+ "fetched_at": "2026-07-18T13:30:00+00:00",
+ "layer_url": "fixture://greensboro_permits",
+ "_note": "Representative excerpts of the live gis.greensboro-nc.gov BuildingPermits_MS/6 f=geojson response (field names verified against the layer), plus two synthetic edge cases (issued >18mo, missing geometry) that reuse the real schema. IssuedDate is epoch ms; StatusCurrent arrives space-padded on the live layer.",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9863,
+     36.1089
+    ]
+   },
+   "properties": {
+    "PermitNum": 202607903,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "New Construction",
+    "BP_COMM_RESID_MULT": "C",
+    "MultiFamily": "N",
+    "IssuedDate": 1784073600000,
+    "Description": "New commercial building",
+    "FullAddress": "1200 NEW GARDEN RD",
+    "OfficalTotalCost": 7531597,
+    "GeneralCost": 710500,
+    "PlumbingCost": 125000,
+    "ElectricalCost": 175000,
+    "MechanicalCost": 210000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8641,
+     36.0145
+    ]
+   },
+   "properties": {
+    "PermitNum": 202513522,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "New Construction",
+    "BP_COMM_RESID_MULT": "C",
+    "MultiFamily": "Y",
+    "IssuedDate": 1783814400000,
+    "Description": "New 200-unit apartment community",
+    "FullAddress": "3900 W GATE CITY BLVD",
+    "OfficalTotalCost": 4514724,
+    "GeneralCost": 3030600,
+    "PlumbingCost": 258500,
+    "ElectricalCost": 258500,
+    "MechanicalCost": 258500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.85,
+     36.0665
+    ]
+   },
+   "properties": {
+    "PermitNum": 202611026,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "Int/Ext Alterations",
+    "BP_COMM_RESID_MULT": "R",
+    "MultiFamily": "N",
+    "IssuedDate": 1783468800000,
+    "Description": "Basement Renovation - Construct bathroom, laundry",
+    "FullAddress": "917 MAGNOLIA ST",
+    "OfficalTotalCost": 16900,
+    "GeneralCost": 10000,
+    "PlumbingCost": 2900,
+    "ElectricalCost": 2000,
+    "MechanicalCost": 2000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.817,
+     36.0759
+    ]
+   },
+   "properties": {
+    "PermitNum": 202610757,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "Int/Ext Alterations",
+    "BP_COMM_RESID_MULT": "R",
+    "MultiFamily": "N",
+    "IssuedDate": 1782950400000,
+    "Description": "Service upgrade to 200A panel",
+    "FullAddress": "2408 MADISON AVE",
+    "OfficalTotalCost": 39262,
+    "GeneralCost": 0,
+    "PlumbingCost": 0,
+    "ElectricalCost": 39262,
+    "MechanicalCost": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9189,
+     36.1306
+    ]
+   },
+   "properties": {
+    "PermitNum": 202523237,
+    "StatusCurrent": "Final Inspection Made                                       ",
+    "ApplicationType": "Int/Ext Alterations",
+    "BP_COMM_RESID_MULT": "R",
+    "MultiFamily": "N",
+    "IssuedDate": 1783641600000,
+    "Description": "Recently issued but already signed off (excluded by status)",
+    "FullAddress": "4210 W GATE CITY BLVD",
+    "OfficalTotalCost": 150000,
+    "GeneralCost": 150000,
+    "PlumbingCost": 0,
+    "ElectricalCost": 0,
+    "MechanicalCost": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.766,
+     36.117
+    ]
+   },
+   "properties": {
+    "PermitNum": 202403998,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "New Construction",
+    "BP_COMM_RESID_MULT": "C",
+    "MultiFamily": "N",
+    "IssuedDate": 1779408000000,
+    "Description": "Warehouse addition (issued ~2 months ago, outside the window)",
+    "FullAddress": "1600 E CONE BLVD",
+    "OfficalTotalCost": 900000,
+    "GeneralCost": 900000,
+    "PlumbingCost": 0,
+    "ElectricalCost": 0,
+    "MechanicalCost": 0
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "PermitNum": 202609999,
+    "StatusCurrent": "Issued                                                      ",
+    "ApplicationType": "New Construction",
+    "BP_COMM_RESID_MULT": "C",
+    "MultiFamily": "N",
+    "IssuedDate": 1777636800000,
+    "Description": "Record with missing geometry",
+    "FullAddress": "NO GEOMETRY TEST",
+    "OfficalTotalCost": 750000,
+    "GeneralCost": 750000,
+    "PlumbingCost": 0,
+    "ElectricalCost": 0,
+    "MechanicalCost": 0
+   }
+  }
+ ]
+}

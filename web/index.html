@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>PortaRun — Greensboro</title>
+<meta name="description" content="Find the nearest restroom or porta-potty while you run — Greensboro, NC.">
+
+<!-- PWA: installable, "Add to Home Screen" on iOS/Android -->
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0d7a68">
+<link rel="icon" href="icons/icon-32.png" sizes="32x32" type="image/png">
+<link rel="apple-touch-icon" href="icons/icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="PortaRun">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
+
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<style>
+  :root {
+    --restroom: #0d7a68;
+    --likely: #c9721c;
+    --ink: #1c2431;
+    --panel: rgba(255, 255, 255, 0.94);
+  }
+  * { margin: 0; box-sizing: border-box; }
+  html, body { height: 100%; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--ink); }
+  #map { height: 100%; width: 100%; }
+
+  header {
+    position: absolute; top: 0; left: 0; right: 0; z-index: 1000;
+    padding: calc(env(safe-area-inset-top) + 10px) 12px 10px;
+    display: flex; flex-wrap: wrap; align-items: center; gap: 8px;
+    pointer-events: none;
+  }
+  header h1 {
+    font-size: 1.05rem; font-weight: 700; letter-spacing: 0.01em;
+    background: var(--panel); padding: 8px 14px; border-radius: 999px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.18); pointer-events: auto;
+  }
+  header h1 span { color: var(--restroom); }
+  .chips { display: flex; gap: 8px; pointer-events: auto; }
+  .chip {
+    border: none; font: inherit; font-size: 0.85rem; font-weight: 600;
+    padding: 8px 12px; border-radius: 999px; cursor: pointer;
+    background: var(--panel); box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+    display: flex; align-items: center; gap: 6px; color: var(--ink);
+  }
+  .chip .dot { width: 10px; height: 10px; border-radius: 50%; }
+  .chip[data-on="false"] { opacity: 0.45; }
+  .chip[data-layer="restroom"] .dot { background: var(--restroom); }
+  .chip[data-layer="porta_potty_likely"] .dot { background: var(--likely); }
+
+  #locate {
+    position: absolute; right: 12px; bottom: calc(env(safe-area-inset-bottom) + 24px);
+    z-index: 1000; width: 52px; height: 52px; border-radius: 50%;
+    border: none; font-size: 1.4rem; cursor: pointer;
+    background: var(--panel); box-shadow: 0 2px 10px rgba(0,0,0,0.25);
+  }
+
+  #status {
+    position: absolute; left: 50%; transform: translateX(-50%);
+    bottom: calc(env(safe-area-inset-bottom) + 34px); z-index: 1000;
+    background: var(--ink); color: #fff; font-size: 0.8rem;
+    padding: 6px 14px; border-radius: 999px; opacity: 0; transition: opacity 0.3s;
+    max-width: 85vw; text-align: center;
+  }
+  #status.show { opacity: 0.92; }
+
+  .popup-name { font-weight: 700; margin-bottom: 2px; }
+  .popup-detail { font-size: 0.82rem; color: #4a5568; }
+  .popup-conf { font-size: 0.78rem; margin-top: 4px; }
+  .popup-warn {
+    font-size: 0.75rem; margin-top: 6px; padding: 6px 8px; border-radius: 6px;
+    background: #fdf1e3; color: #8a4d0f;
+  }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<header>
+  <h1>Porta<span>Run</span> · Greensboro</h1>
+  <div class="chips">
+    <button class="chip" data-layer="restroom" data-on="true"><span class="dot"></span>Restrooms</button>
+    <button class="chip" data-layer="porta_potty_likely" data-on="true"><span class="dot"></span>Likely porta-potties</button>
+  </div>
+</header>
+<button id="locate" title="Show my location" aria-label="Show my location">📍</button>
+<div id="status" role="status"></div>
+
+<script src="vendor/leaflet/leaflet.js"></script>
+<script>
+  const map = L.map('map', { zoomControl: false }).setView([36.0726, -79.7920], 13);
+  L.control.zoom({ position: 'bottomleft' }).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+  }).addTo(map);
+
+  const styles = {
+    restroom:           { color: '#0d7a68', emoji: '🚻' },
+    porta_potty_likely: { color: '#c9721c', emoji: '🚧' },
+  };
+  const layers = {
+    restroom: L.layerGroup().addTo(map),
+    porta_potty_likely: L.layerGroup().addTo(map),
+  };
+
+  function popupHtml(p) {
+    const pct = Math.round(p.confidence * 100);
+    let html = `<div class="popup-name">${styles[p.kind].emoji} ${p.name}</div>` +
+               `<div class="popup-detail">${p.detail || ''}</div>` +
+               `<div class="popup-conf">Confidence: ${pct}% · source: ${p.source}</div>`;
+    if (p.kind === 'porta_potty_likely') {
+      html += `<div class="popup-warn">Unverified — inferred from an active building permit. ` +
+              `Construction-site toilets are on private property; use judgment and courtesy.</div>`;
+    }
+    return html;
+  }
+
+  function marker(feature) {
+    const [lon, lat] = feature.geometry.coordinates;
+    const p = feature.properties;
+    const s = styles[p.kind];
+    return L.circleMarker([lat, lon], {
+      radius: 6 + 5 * p.confidence,
+      color: s.color,
+      weight: 2,
+      fillColor: s.color,
+      fillOpacity: 0.25 + 0.5 * p.confidence,
+    }).bindPopup(popupHtml(p));
+  }
+
+  const status = document.getElementById('status');
+  let statusTimer;
+  function flash(msg, ms = 4000) {
+    status.textContent = msg;
+    status.classList.add('show');
+    clearTimeout(statusTimer);
+    statusTimer = setTimeout(() => status.classList.remove('show'), ms);
+  }
+
+  fetch('data/potties.geojson')
+    .then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.json(); })
+    .then(data => {
+      let n = 0;
+      for (const f of data.features) {
+        if (!layers[f.properties.kind]) continue;
+        marker(f).addTo(layers[f.properties.kind]);
+        n++;
+      }
+      document.body.dataset.markers = n;   // hook for automated checks
+      flash(`${n} spots loaded · data ${String(data.metadata?.generated_at || '').slice(0, 10)}`);
+    })
+    .catch(err => flash(`Could not load data: ${err.message}`, 8000));
+
+  document.querySelectorAll('.chip').forEach(chip => {
+    chip.addEventListener('click', () => {
+      const on = chip.dataset.on !== 'true';
+      chip.dataset.on = String(on);
+      const layer = layers[chip.dataset.layer];
+      on ? layer.addTo(map) : map.removeLayer(layer);
+    });
+  });
+
+  // Greensboro data coverage (matches the OSM fetch bbox). Used so a user
+  // located elsewhere isn't dumped onto an empty map.
+  const COVERAGE = L.latLngBounds([35.95, -80.05], [36.20, -79.60]);
+
+  // If the user grabs the map during the async lookup, don't yank it back.
+  let userMoved = false;
+  map.on('dragstart zoomstart', () => { userMoved = true; });
+
+  let me;
+  function locate({ announce = true } = {}) {
+    if (!navigator.geolocation) {
+      if (announce) flash('Geolocation not supported');
+      return;
+    }
+    if (announce) flash('Locating…', 10000);
+    navigator.geolocation.getCurrentPosition(
+      pos => {
+        const ll = [pos.coords.latitude, pos.coords.longitude];
+        if (me) me.remove();
+        me = L.circleMarker(ll, { radius: 8, color: '#1d5fd0', fillColor: '#1d5fd0', fillOpacity: 0.9 })
+             .addTo(map).bindPopup('You are here');
+        if (!COVERAGE.contains(ll)) {
+          flash('You appear to be outside Greensboro, the POC coverage area.', 6000);
+          return;
+        }
+        if (announce || !userMoved) map.setView(ll, 15);  // don't fight a manual pan
+        if (announce) flash('Showing your location');
+      },
+      err => { if (announce) flash(`Location failed: ${err.message}`, 6000); },
+      { enableHighAccuracy: true, timeout: 10000 },
+    );
+  }
+
+  document.getElementById('locate').addEventListener('click', () => locate());
+
+  // Auto-locate on open. Quiet: a denied/failed prompt just leaves the
+  // Greensboro overview in place, and the 📍 button re-tries with feedback.
+  locate({ announce: false });
+
+  // Register the service worker for offline use + installability.
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () =>
+      navigator.serviceWorker.register('sw.js').catch(() => {}));
+  }
+</script>
+</body>
+</html>

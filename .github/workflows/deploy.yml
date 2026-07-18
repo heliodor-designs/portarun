@@ -1,0 +1,80 @@
+name: Build data & deploy to Pages
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    - cron: "0 8 * * *"   # daily ~08:00 UTC (~4am ET). GitHub cron can lag under load.
+  workflow_dispatch: {}    # "Run workflow" button for on-demand refreshes
+
+# Allow the job to publish to Pages; one deploy at a time.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Pipeline is stdlib-only — nothing to install.
+      - name: Fetch live data (retry flaky Overpass)
+        run: |
+          n=0
+          until python -m pipeline.fetch; do
+            n=$((n + 1))
+            if [ "$n" -ge 3 ]; then echo "fetch failed after $n attempts"; exit 1; fi
+            echo "fetch attempt $n failed; retrying in 30s..."; sleep 30
+          done
+
+      - name: Build web/data/potties.geojson
+        run: python -m pipeline.normalize
+
+      - name: Guard against empty / degraded data
+        # Fail (skip deploy, keep the last good Pages build) if any source came
+        # back suspiciously thin — the pipeline falls back to fixtures locally,
+        # and we never want fixtures shipped as if they were live.
+        run: |
+          python - <<'PY'
+          import json, sys
+          d = json.load(open("web/data/potties.geojson"))
+          counts = d["metadata"]["counts"]
+          minimums = {"greensboro_permits": 25, "greensboro_parks": 50, "osm_toilets": 5}
+          print("source counts:", counts)
+          low = {k: counts.get(k, 0) for k, m in minimums.items() if counts.get(k, 0) < m}
+          if low:
+              sys.exit(f"FAIL: below threshold {minimums} -> {low}")
+          print("data looks healthy")
+          PY
+
+      - name: Run tests
+        run: python -m unittest discover -s pipeline/tests -t . -v
+
+      - name: Assemble site (web/ is the root; drop the icon generator)
+        run: |
+          rm -rf _site
+          cp -r web _site
+          rm -f _site/make_icons.py
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

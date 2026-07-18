@@ -1,0 +1,6 @@
+__pycache__/
+pipeline/raw/
+*.pyc
+.venv/
+*.egg-info/
+_site/

@@ -1,0 +1,52 @@
+{
+ "source": "osm_toilets",
+ "fetched_at": "2026-07-18T13:30:00+00:00",
+ "_note": "Hand-authored sample matching the Overpass API 'out center tags' response shape.",
+ "elements": [
+  {
+   "type": "node",
+   "id": 9876543210,
+   "lat": 36.07405,
+   "lon": -79.78832,
+   "tags": {
+    "amenity": "toilets",
+    "name": "LeBauer Park Restrooms",
+    "access": "yes",
+    "wheelchair": "yes"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9876543211,
+   "lat": 36.0663,
+   "lon": -79.8206,
+   "tags": {
+    "amenity": "toilets",
+    "fee": "no",
+    "opening_hours": "sunrise-sunset"
+   }
+  },
+  {
+   "type": "way",
+   "id": 123456789,
+   "center": {
+    "lat": 36.1461,
+    "lon": -79.8433
+   },
+   "tags": {
+    "amenity": "toilets",
+    "name": "Bur-Mil Park Restroom"
+   }
+  },
+  {
+   "type": "node",
+   "id": 9876543212,
+   "lat": 36.0701,
+   "lon": -79.7929,
+   "tags": {
+    "amenity": "toilets",
+    "access": "private"
+   }
+  }
+ ]
+}

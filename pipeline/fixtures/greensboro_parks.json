@@ -1,0 +1,116 @@
+{
+ "source": "greensboro_parks",
+ "fetched_at": "2026-07-18T13:30:00+00:00",
+ "layer_url": "fixture://greensboro_parks",
+ "_note": "Representative excerpts of the live gis.greensboro-nc.gov PiedmontDiscovery_MS/0 (Park Facilities) f=geojson response; field names verified against the layer. Includes a non-restroom facility (excluded by type) and a closed restroom (excluded by status).",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.8083,
+     36.0885
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1408,
+    "Facility_Type": "Restroom",
+    "Facility_Name": "Lake Daniel Park",
+    "Address": "1010 W Wendover Ave",
+    "Description": "Restroom at Lake Daniel Park",
+    "Status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.822,
+     36.113
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1503,
+    "Facility_Type": "Restroom",
+    "Facility_Name": "Country Park",
+    "Address": "3905 Nathanael Greene Dr",
+    "Description": "Restroom at Country Park",
+    "Status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.749,
+     36.043
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1611,
+    "Facility_Type": "Restroom",
+    "Facility_Name": "Barber Park",
+    "Address": "1500 Barber Park Dr",
+    "Description": "Restroom at Barber Park",
+    "Status": "Open Restricted"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.798,
+     36.0562
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1612,
+    "Facility_Type": "Restroom",
+    "Facility_Name": "Warnersville Community Park",
+    "Address": "601 Doak St",
+    "Description": "Restroom at Warnersville Community Park",
+    "Status": "Open Fee"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7975,
+     36.0868
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1701,
+    "Facility_Type": "Playground",
+    "Facility_Name": "Sternberger Park",
+    "Address": "712 Summit Ave",
+    "Description": "Playground at Sternberger Park",
+    "Status": "Open"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.812,
+     36.058
+    ]
+   },
+   "properties": {
+    "Facility_ID": 1820,
+    "Facility_Type": "Restroom",
+    "Facility_Name": "Hester Park",
+    "Address": "3615 Deutzia St",
+    "Description": "Restroom at Hester Park (under renovation)",
+    "Status": "Closed"
+   }
+  }
+ ]
+}
