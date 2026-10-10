@@ -60,10 +60,22 @@ jobs:
         run: python -m unittest discover -s pipeline/tests -t . -v
 
       - name: Assemble site (web/ is the root; drop the icon generator)
+        env:
+          CARTO_API_KEY: ${{ secrets.CARTO_API_KEY }}
         run: |
           rm -rf _site
           cp -r web _site
           rm -f _site/make_icons.py
+          # Inject the CARTO basemap key. It's a public client-side token
+          # (restricted by domain in the CARTO dashboard), written to a
+          # generated config.js so it never lives in committed source. Missing
+          # secret -> keep the keyless fallback and warn rather than fail.
+          if [ -n "$CARTO_API_KEY" ]; then
+            printf 'window.CARTO_KEY=%s;\n' "\"$CARTO_API_KEY\"" > _site/config.js
+            echo "CARTO basemap key injected."
+          else
+            echo "::warning::CARTO_API_KEY secret not set; deploying keyless (rate-limited) basemap."
+          fi
 
       - uses: actions/upload-pages-artifact@v3
         with:

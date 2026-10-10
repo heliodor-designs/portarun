@@ -4,10 +4,11 @@
  * refreshed in the background), network-only for cross-origin map tiles (never
  * worth caching, and their opaque responses would bloat storage). Bump CACHE
  * to invalidate old assets after a deploy. */
-const CACHE = 'portarun-v2';
+const CACHE = 'portarun-v3';
 const SHELL = [
   './',
   './index.html',
+  './config.js',
   './manifest.webmanifest',
   './vendor/leaflet/leaflet.css',
   './vendor/leaflet/leaflet.js',

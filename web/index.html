@@ -90,11 +90,15 @@
 <button id="locate" title="Show my location" aria-label="Show my location">📍</button>
 <div id="status" role="status"></div>
 
+<script src="config.js"></script>
 <script src="vendor/leaflet/leaflet.js"></script>
 <script>
   const map = L.map('map', { zoomControl: false }).setView([36.0726, -79.7920], 13);
   L.control.zoom({ position: 'bottomleft' }).addTo(map);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+  // Keyed basemap when CARTO_KEY is injected at deploy; keyless (throttled)
+  // fallback otherwise, so local checkouts still render a map.
+  const cartoAuth = window.CARTO_KEY ? `?api_key=${window.CARTO_KEY}` : '';
+  L.tileLayer(`https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png${cartoAuth}`, {
     subdomains: 'abcd',
     maxZoom: 20,
     detectRetina: true,   // {r} -> @2x on high-DPI screens; needs detectRetina
