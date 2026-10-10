@@ -95,9 +95,10 @@
 <script>
   const map = L.map('map', { zoomControl: false }).setView([36.0726, -79.7920], 13);
   L.control.zoom({ position: 'bottomleft' }).addTo(map);
-  // Keyed basemap when CARTO_KEY is injected at deploy; keyless (throttled)
-  // fallback otherwise, so local checkouts still render a map.
-  const cartoAuth = window.CARTO_KEY ? `?api_key=${window.CARTO_KEY}` : '';
+  // CARTO requires a key for raster tiles (since 2026-09-25). Append it when
+  // injected at deploy; without one the basemap shows an "API key required"
+  // watermark (e.g. local checkouts that lack the CARTO_API_KEY secret).
+  const cartoAuth = window.CARTO_KEY ? `?key=${window.CARTO_KEY}` : '';
   L.tileLayer(`https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png${cartoAuth}`, {
     subdomains: 'abcd',
     maxZoom: 20,
